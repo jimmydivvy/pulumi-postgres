@@ -1,0 +1,5 @@
+name: example
+description: A minimal TypeScript program
+runtime: nodejs
+template:
+  description: A minimal TypeScript program

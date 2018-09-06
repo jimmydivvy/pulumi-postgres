@@ -1,0 +1,9 @@
+{
+    "name": "example",
+    "devDependencies": {
+        "@types/node": "latest"
+    },
+    "dependencies": {
+        "@pulumi/pulumi": "latest"
+    }
+}
